@@ -1,6 +1,0 @@
-{
-  "name": "Water Cooler Sensor",
-  "description": "Interactive hardware showcase, live water-level and clog simulator, and commercial cost model for the Water Cooler Sensor system.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
